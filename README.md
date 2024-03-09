@@ -1,4 +1,5 @@
 # counter_app
+[![Flutter Deploy and Release](https://github.com/hamzaubit/CounterApp/actions/workflows/main.yml/badge.svg)](https://github.com/hamzaubit/CounterApp/actions/workflows/main.yml)
 
 A new Flutter project.
 
